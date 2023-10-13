@@ -9,7 +9,7 @@ const userDetailsSchema = require("./userSchema");
 
 // Connect to MongoDB
 mongoose.connect(
-  "mongodb+srv://mathan:mathan123@cluster0.slq6nhk.mongodb.net/?retryWrites=true&w=majority",
+  "mongodb+srv://Mathan:Mathan123@cluster0.slq6nhk.mongodb.net/?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
